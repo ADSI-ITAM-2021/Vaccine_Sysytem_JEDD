@@ -1,2 +1,2 @@
 # Vaccine_Sysytem_JEDD
-Vacuna 
+Web App for old mexican citizens registration to vaccine aplication list.
