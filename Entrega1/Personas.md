@@ -1,6 +1,6 @@
-# Entrega1
+# Personas 
 
-## Personas 
+## (Entrega 1)
 
 - Persona 1
 ![Persona 1](https://github.com/ADSI-ITAM-2021/Vaccine_Sysytem_JEDD/blob/main/Imagenes/Persona%201.jpeg)
