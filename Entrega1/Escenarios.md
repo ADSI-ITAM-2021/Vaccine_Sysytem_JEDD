@@ -18,8 +18,7 @@ Paulina se encuentra trabajando en su oficina y son las 2:00 pm. Paulina escucha
 
 ## Escenario Lucía
 
-Lucía se encuentra en su casa y quiere salir a pasear a su perro. Sin emabrgo, se percata que al salir puede encontrarse con otras personas y contagiarse de Covid-19. 
-Lucía saca su teléfono y abre la página para registrarse para la vacunación. En la página pone su CURP, sus datos personales, su dirección y su celular y da click 
+Lucía se encuentra en su casa y quiere salir a pasear a su perro. Sin emabrgo, se percata que al salir puede encontrarse con otras personas y contagiarse de Covid-19. Se acuerda que escuchó en la televisión que hay una página de inscripción de adultos mayores para la vacunación. Lucía saca su teléfono y abre la página para registrarse para la vacunación. En la página pone su CURP, sus datos personales, su dirección y su celular y da click 
 en aceptar. Recibe su número de identificación y estará al pendiente de su turno para vacunarse.
 
 
