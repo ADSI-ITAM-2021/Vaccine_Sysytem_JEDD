@@ -2,7 +2,7 @@
 
 ## Personas 
 
-![Persona 1](./Imagenes/"Persona 1" =100x20)
+![Persona 1](./Imagenes/"Persona 1".jpeg)
 
 
 ![Persona 2](./Imagenes/Persona 2 =100x20)
