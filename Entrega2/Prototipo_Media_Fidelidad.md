@@ -17,7 +17,7 @@ y los Mockups como la representación refinada final del diseño visual y estát
 
 
 
-### Customer Journey Sistema de Vacunación
+###  Prototipo de media fidelidad del sistema de vacunación
 [URL del prototipo de media fidelidad](https://app.moqups.com/RHtdCy2ovA/view/page/a915c0100)
 
 ![Prototipo de media fidelidad - Index](https://github.com/ADSI-ITAM-2021/Vaccine_Sysytem_JEDD/blob/main/Imagenes/PrototipoMediaFidelidad.jpg)
