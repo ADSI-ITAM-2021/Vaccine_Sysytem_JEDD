@@ -27,7 +27,7 @@ logré visualizar los requerimientos de edad para el registro.
 
 ## Reflexiones 
 
-A partir de la interacción con Raúl y nuestro sistema de vacunación tuvimos las siguientes conclusiones.
+A partir de la interacción de Raúl con nuestro sistema de vacunación tuvimos las siguientes conclusiones.
 
 1. Se debe mejorar le parte del registro para que sea más claro que se cuentan con dos opciones para ello. 
 Tanto la parte de registro con CURP y la de Datos personales.  
