@@ -31,7 +31,7 @@ A partir de la interacción de Raúl con nuestro sistema de vacunación tuvimos 
 
 1. Se debe mejorar le parte del registro para que sea más claro que se cuentan con dos opciones para ello. 
 Tanto la parte de registro con CURP y la de Datos personales.  
-2. Debemos hacer más visible las condiciones que deben cumplir los adultos para la vacunación. Ya se que las restricciones sean de edad o por localización
+2. Debemos hacer más visible las condiciones que deben cumplir los adultos para la vacunación. Ya sea que estas restricciones sean de edad o localización.
 
 ## Enlaces
 
