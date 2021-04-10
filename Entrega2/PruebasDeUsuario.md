@@ -1,4 +1,4 @@
-# Prueba de Usuario prototipo sistema de vacunación JEDD
+# Pruebas de usuario con el prototipo de media fidelidad del sistema de vacunación JEDD
 
 ## Introducción
 
@@ -9,19 +9,20 @@ Parea realizar el registro, se necesitan datos personales, correo electrónico y
 
 ## Vídeos de las pruebas de usuario
 
-- [Prueba de usuario 1 - Raúl](https://youtu.be/sLBiPI6rQko){:target="_blank"}
-- [Prueba de usuario 2 - Roxana](https://youtu.be/BLNtB59U00g){:target="_blank"}
+- [Prueba de usuario 1 - Raúl](https://youtu.be/sLBiPI6rQko)
+- [Prueba de usuario 2 - Roxana](https://youtu.be/BLNtB59U00g)
 
 
 ## Reflexiones 
 
-- A partir de la interacción de Raúl con nuestro sistema de vacunación tuvimos las siguientes conclusiones:
+- A partir de la interacción de los usuarios representativos con nuestro sistema de vacunación tuvimos las siguientes conclusiones:
+- Raúl:
 
 1. Se debe mejorar le parte del registro para que sea más claro que se cuentan con dos opciones para ello. 
 Tanto la parte de registro con CURP y la de Datos personales.  
 2. Debemos hacer más visible las condiciones que deben cumplir los adultos para la vacunación. Ya sea que estas restricciones sean de edad o localización.
 
-- A partir de la interacción de Roxana con nuestro sistema de vacunación tuvimos las siguientes conclusiones:
+- Roxana:
 
 1. Se debe mejorar le parte del registro para que sea más claro que se cuentan con dos opciones para ello. 
 Tanto la parte de registro con CURP y la de Datos personales.  
