@@ -9,8 +9,8 @@ Parea realizar el registro, se necesitan datos personales, correo electrónico y
 
 ## Vídeos de las pruebas de usuario
 
-- [Prueba de usuario 1 - Raúl](https://youtu.be/sLBiPI6rQko)
-- [Prueba de usuario 2 - Roxana](https://youtu.be/BLNtB59U00g)
+- [Prueba de usuario 1 - Raúl](https://youtu.be/sLBiPI6rQko){:target="_blank"}
+- [Prueba de usuario 2 - Roxana](https://youtu.be/BLNtB59U00g){:target="_blank"}
 
 
 ## Reflexiones 
