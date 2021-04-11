@@ -20,4 +20,18 @@ y los Mockups como la representación refinada final del diseño visual y estát
 ###  Prototipo de media fidelidad del sistema de vacunación
 [URL del prototipo de media fidelidad](https://app.moqups.com/RHtdCy2ovA/view/page/a915c0100)
 
-![Prototipo de media fidelidad - Index](https://github.com/ADSI-ITAM-2021/Vaccine_Sysytem_JEDD/blob/main/Imagenes/PrototipoMediaFidelidad.jpg)
+![Index](https://github.com/ADSI-ITAM-2021/Vaccine_Sysytem_JEDD/blob/main/Imagenes/PMF_Index.jpg)
+
+![Aviso de Privacidad](https://github.com/ADSI-ITAM-2021/Vaccine_Sysytem_JEDD/blob/main/Imagenes/PMF_AvisoPrivacidad.JPG)
+
+![CURP](https://github.com/ADSI-ITAM-2021/Vaccine_Sysytem_JEDD/blob/main/Imagenes/PMF_CURP.jpg)
+
+![Datos Personales](https://github.com/ADSI-ITAM-2021/Vaccine_Sysytem_JEDD/blob/main/Imagenes/PMF_DatosPersonales.jpg)
+
+![Correo](https://github.com/ADSI-ITAM-2021/Vaccine_Sysytem_JEDD/blob/main/Imagenes/PMF_Correo.jpg)
+
+![Registro exitoso](https://github.com/ADSI-ITAM-2021/Vaccine_Sysytem_JEDD/blob/main/Imagenes/PMF_RegistroExitoso.jpg)
+
+![Registro inválido](https://github.com/ADSI-ITAM-2021/Vaccine_Sysytem_JEDD/blob/main/Imagenes/PMF_RegistroInvalido.JPG)
+
+![Error](https://github.com/ADSI-ITAM-2021/Vaccine_Sysytem_JEDD/blob/main/Imagenes/PMF_Error.jpg)
