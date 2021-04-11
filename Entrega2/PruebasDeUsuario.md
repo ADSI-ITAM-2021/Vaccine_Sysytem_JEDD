@@ -29,6 +29,8 @@ Tanto la parte de registro con CURP y la de Datos personales.
 1. Se debe aumentar el tamaño de la letra, pues, los adultos mayores tienen dificultad para ver cosas pequeñas. 
 2. No es clara la posibilidad de ingresar sólo el CURP o sólo los datos personales, se debe mejorar o colocar una etiqueta clara. 
 
+-Nora:
+1.- La página de curp y datos personales no fue muy intuitiva, debería haber alguna instrucción que te diga para que es cada una, yo creí debía llenar las dos opciones. 
 
 ## Diálogo 1 - Raúl
 
@@ -101,24 +103,43 @@ logré visualizar los requerimientos de edad para el registro.
 
 ## Diálogo 3 - Nora
 
-**Nora**: (Lee la página de inicio)
+**Nora**: (Lee la página de inicio).
+
 **Elisa**: ¿Qué harías primero?
+
 **Nora**: Le doy click a iniciar registro.
+
 **Elisa**: ¿A qué le picarías?
+
 **Nora**: ¿Qué debo de hacer? Que se hace con la CURP, ¿A qué se le debe dar click? No entiendo muy bien.
+
 **Elisa**: (le enseña que pasa en cada opción de la página de curp). En caso de no tener la curp le tienes que dar click en datos personales.
+
 **Nora**: No me queda muy clara esta página. Le doy en continuar. 
+
 **Elisa**: Los datos que se ven así son una simulación de datos personales, no son los tuyos.
+
 **Nora**: ¿Tengo que poner lo del estado?
+
 **Elisa**: Ahorita no porque solo es un prototipo, pero en la página real si debes llenar todos tus datos.
+
 **Nora**: Ok, ¿Ahora qué sigue?
+
 **Elisa**: En donde dice el correo y número de teléfono tienes que poner tus datos, ¿Es intuitivo eso?
+
 **Nora**: No mucho, pero pongo los datos, luego acepto los términos y condiciones, no cambio nada y después en finalizar registro.
+
 **Elisa**: Muy bien. Y el sistema te daría la fecha y hora para tu vacuna. 
+
 **Nora**: (Lee en voz alta la página de registro exitoso)
+
 **Elisa**: Eso es todo.
+
 **Nora**: Estuvo bien, me dio risa que yo creía que era enserio.  También fue algo confuso.
+
 **Elisa**: Muchas gracias.
+
 **Nora**: De nada.
+
 
 
