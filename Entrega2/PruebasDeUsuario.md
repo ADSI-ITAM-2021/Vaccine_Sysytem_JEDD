@@ -11,7 +11,7 @@ Parea realizar el registro, se necesitan datos personales, correo electrónico y
 
 - [Prueba de usuario 1 - Raúl](https://youtu.be/sLBiPI6rQko)
 - [Prueba de usuario 2 - Roxana](https://youtu.be/BLNtB59U00g)
-- [Prueba de usuario 3 - Nora] (https://drive.google.com/drive/folders/1PKoO1sxRVWPhCUknfzgYx56a-7JyI9Gx?usp=sharing)
+- [Prueba de usuario 3 - Nora](https://drive.google.com/drive/folders/1PKoO1sxRVWPhCUknfzgYx56a-7JyI9Gx?usp=sharing)
 
 
 ## Reflexiones 
