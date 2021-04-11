@@ -11,6 +11,7 @@ Parea realizar el registro, se necesitan datos personales, correo electrónico y
 
 - [Prueba de usuario 1 - Raúl](https://youtu.be/sLBiPI6rQko)
 - [Prueba de usuario 2 - Roxana](https://youtu.be/BLNtB59U00g)
+- [Prueba de usuario 3 - Nora]
 
 
 ## Reflexiones 
@@ -97,4 +98,27 @@ logré visualizar los requerimientos de edad para el registro.
 **Diego**: Comparando la experiencia que tuviste con la página actual con la que tiene el gobierno federal: ¿cuál te gustó más o cuál se te hizo más sencilla y por qué? 
 
 **Roxana**: Similar, aunque en esta página fue algo confuso escribir el CURP y los datos personales.  
+
+## Diálogo 3 - Nora
+
+**Nora**: (Lee la página de inicio)
+**Elisa**: ¿Qué harías primero?
+**Nora**: Le doy click a iniciar registro.
+**Elisa**: ¿A qué le picarías?
+**Nora**: ¿Qué debo de hacer? Que se hace con la CURP, ¿A qué se le debe dar click? No entiendo muy bien.
+**Elisa**: (le enseña que pasa en cada opción de la página de curp). En caso de no tener la curp le tienes que dar click en datos personales.
+**Nora**: No me queda muy clara esta página. Le doy en continuar. 
+**Elisa**: Los datos que se ven así son una simulación de datos personales, no son los tuyos.
+**Nora**: ¿Tengo que poner lo del estado?
+**Elisa**: Ahorita no porque solo es un prototipo, pero en la página real si debes llenar todos tus datos.
+**Nora**: Ok, ¿Ahora qué sigue?
+**Elisa**: En donde dice el correo y número de teléfono tienes que poner tus datos, ¿Es intuitivo eso?
+**Nora**: No mucho, pero pongo los datos, luego acepto los términos y condiciones, no cambio nada y después en finalizar registro.
+**Elisa**: Muy bien. Y el sistema te daría la fecha y hora para tu vacuna. 
+**Nora**: (Lee en voz alta la página de registro exitoso)
+**Elisa**: Eso es todo.
+**Nora**: Estuvo bien, me dio risa que yo creía que era enserio.  También fue algo confuso.
+**Elisa**: Muchas gracias.
+**Nora**: De nada.
+
 
