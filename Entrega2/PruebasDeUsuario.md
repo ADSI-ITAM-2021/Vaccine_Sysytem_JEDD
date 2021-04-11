@@ -15,7 +15,8 @@ Parea realizar el registro, se necesitan datos personales, correo electrónico y
 
 ## Reflexiones 
 
-- A partir de la interacción de los usuarios representativos con nuestro sistema de vacunación tuvimos las siguientes conclusiones:
+A partir de la interacción de los usuarios representativos con nuestro sistema de vacunación tuvimos las siguientes conclusiones:
+
 - Raúl:
 
 1. Se debe mejorar le parte del registro para que sea más claro que se cuentan con dos opciones para ello. 
@@ -24,9 +25,8 @@ Tanto la parte de registro con CURP y la de Datos personales.
 
 - Roxana:
 
-1. Se debe mejorar le parte del registro para que sea más claro que se cuentan con dos opciones para ello. 
-Tanto la parte de registro con CURP y la de Datos personales.  
-2. Debemos hacer más visible las condiciones que deben cumplir los adultos para la vacunación. Ya sea que estas restricciones sean de edad o localización.
+1. Se debe aumentar el tamaño de la letra, pues, los adultos mayores tienen dificultad para ver cosas pequeñas. 
+2. No es clara la posibilidad de ingresar sólo el CURP o sólo los datos personales, se debe mejorar o colocar una etiqueta clara. 
 
 
 ## Diálogo 1 - Raúl
@@ -48,10 +48,53 @@ dame una breve razón por la que tomas esa acción.
 logré visualizar los requerimientos de edad para el registro.
 
 
-## Diálogo 1 - Roxana
+## Diálogo 2 - Roxana
 
-**Jesús**: Raul, porfavor interactúa con el prototipo que te acabo de proporcionar. Cada acción que tomes, descríbela en voz alta y 
-dame una breve razón por la que tomas esa acción.
+**Diego**: Hola, buenas tardes. ¿Cómo te llamas?
 
-**Jesús**: ¿Tuviste algún inconveniente para el registro dentro del sistema ?
+**Roxana**: Roxana Delgado.
+
+**Diego**: ¿Cuántos años tienes? 
+
+**Roxana**: Tengo 62 años. 
+
+**Diego**: ¿Cuál es tu ocupación? 
+
+**Roxana**: Ahora, el hogar. 
+
+**Diego**: Muy bien, pues, estamos presentando una plataforma web que soluciona el registro de vacunación para la población mexicana. Entonces, la idea es que tengas la experiencia como usuaria en la que navegues en la plataforma, leas e interactúes con ella. Así que, por favor,  conforme vayas leyendo e interactuando con ella: si das un clic o si ves algo que no te haga de sentido velo expresando como si lo estuvieras pensando en voz alta y cualquier duda que llegaras a tener me la ahaces por favor.  
+
+**Roxana**: De acuerdo. 
+
+**Diego**: Adelante. 
+
+[...]
+
+**Diego**: si le das click a la flecha derecha del teclado, se muestra el mensaje que hubiera salido si hubiera habido un error en la plataforma. ¿Cómo te sentirías al ver esa pantalla?
+
+**Roxana**: me enojaría y lo intentaría nuevamente.
+
+**Diego**: Muy bien. ¿No te causó curiosidad que aceptaste términos y condiciones sin leerlos? 
+
+**Roxana**: La verdad,  los términos y condiciones luego son muy largos de leer, pero, posiblemente, los guardaría 
+
+**Diego**: Muchas gracias por esta experiencia de usuario. ¿Cómo te sentiste? ¿Tuviste dudas? ¿En qué parte tuviste dudas? 
+
+**Roxana**: ...
+
+**Diego**: ¿Cómo te sentiste en todo el proceso? ¿Al final, cuando te salió el mensaje de éxito cómo te sentiste? 
+
+**Diego**:¿Cuándo salió el mensaje de error cómo te sentiste? 
+
+**Diego**:¿La plataforma se te hizo amigable? ¿El diseño y los colores te gustaron? 
+
+**Roxana**: Aumentaría el tamaño de la letra.
+
+**Diego**: Ahora, saliendo un poco del contexto de que es la primera página de vacunación que utilizas, tuviste el registro en la plataforma de  vacunación y ya te aplicaron la primera dosis ¿es verdad? 
+
+**Roxana**:Es verdad.
+
+**Diego**: Comparando la experiencia que tuviste con la página actual con la que tiene el gobierno federal: ¿cuál te gustó más o cuál se te hizo más sencilla y por qué? 
+
+**Roxana**: Similar, aunque en esta página fue algo confuso escribir el CURP y los datos personales.  
 
