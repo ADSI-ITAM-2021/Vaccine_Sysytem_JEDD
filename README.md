@@ -16,3 +16,4 @@ Developed for "Administración y Diseño de Sistemas Informáticos" class at [IT
 - [User Tests](https://github.com/ADSI-ITAM-2021/Vaccine_Sysytem_JEDD/blob/main/Entrega2/PruebasDeUsuario.md)
 
 ## Objective 
+The idea of this application is for the elderly to identify themselves with either CURP or Personal Data and then fill in the required information. With the  their zip code the software will determine the best location where the adult will be vaccinated. The app will send a message when the appointment is in a few days. 
