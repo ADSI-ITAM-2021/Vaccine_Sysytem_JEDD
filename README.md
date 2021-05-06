@@ -14,3 +14,5 @@ Developed for "Administración y Diseño de Sistemas Informáticos" class at [IT
 - [Customer Journey](https://github.com/ADSI-ITAM-2021/Vaccine_Sysytem_JEDD/blob/main/Entrega1/CustomerJourney.md)
 - [Middle-Fidelity Prototype](https://github.com/ADSI-ITAM-2021/Vaccine_Sysytem_JEDD/blob/main/Entrega2/PrototipoMediaFidelidad.md)
 - [User Tests](https://github.com/ADSI-ITAM-2021/Vaccine_Sysytem_JEDD/blob/main/Entrega2/PruebasDeUsuario.md)
+
+## Objective 
