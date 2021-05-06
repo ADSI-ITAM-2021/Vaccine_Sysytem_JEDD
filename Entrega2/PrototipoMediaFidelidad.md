@@ -3,7 +3,7 @@
 ### (Entrega 2)
 
 Los prototipos son modelos y/o simulaciones de cómo funcionaría y se vería el producto final, además, permite experimentar los flujos de la aplicación, interacciones, 
-probar la usabilidad y la factibilidad de la aplicación. La fidelidad con el producto final depende de las necesidades, puede ir desde hojas 
+probar la usabilidad y la factibilidad de la aplicación. La fidelidad con el producto final  depende de las necesidades, puede ir desde hojas 
 de papel movidas por las manos, hasta una aplicación prácticamente terminada. 
 
 > ”La característica mínima indispensable de un prototipo es que simule
