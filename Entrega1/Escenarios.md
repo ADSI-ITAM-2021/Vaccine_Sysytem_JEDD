@@ -9,7 +9,7 @@ A continuación se muestran tres escenarios correspondientes a las Personas desc
 Carlos se encuentra en su casa tomando clases en línea. Carlos lee en twitter que la página de vacunación ha salido. Ingresa a la página y
 anota los datos que se requieren para realizar el registro. Más tarde llama a sus abuelos para notificarles que va a ayudarlos con el proceso de vacunación y necesita
 la información que previamente anoto. Después, ingresa de nuevo a la página y realiza el registro con los datos de sus abuelos.  Espera alrededor de 1 minuto y recibe
-un correo de confirmación indiándole que el registro de sus abuelos fue exitoso. Dicho correo contiene la fecha, lugar y hora en la que se tienen que presentar sus abuelos. 
+un correo de confirmación indicándole que el registro de sus abuelos fue exitoso. Dicho correo contiene la fecha, lugar y hora en la que se tienen que presentar sus abuelos. 
 Carlos se siente satisfecho y seguro al saber que sus abuelos recibirán la vacuna.
 
 ## Escenario Paulina
