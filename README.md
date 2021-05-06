@@ -6,7 +6,7 @@ Developed for "Administración y Diseño de Sistemas Informáticos" class at [IT
 * [Team members](#item1)
 * [Software design](#item2)
 * [How does it work?](#item3)
-* [Final Project?](#item4)
+* [Final Project](#item4)
 
 
 <a name="item1"></a>
