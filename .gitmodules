@@ -1,0 +1,3 @@
+[submodule "MERN_Vaccination_System"]
+	path = MERN_Vaccination_System
+	url = https://github.com/DiegoHuesos/MERN_Vaccination_System
