@@ -1,6 +1,6 @@
 # Vaccine_Sysytem_JEDD
 RoR web application for the registration to the vaccination application list for Mexican senior citizens. 
-Developed for "Administración y Diseño de Sistemas Informáticos" class at [ITAM](itam.mx) taught by [Paulina Bustos](https://github.com/paulinabustos). 
+Developed for "Administración y Diseño de Sistemas Informáticos" class at [ITAM](itam.mx) taught by [Paulina Bustos](https://github.com/paulinabustos) for the semester of spring 2021. 
 
 ## Team members
 - [Diana Espinosa](https://github.com/dianaespinosar)
